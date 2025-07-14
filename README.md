@@ -18,6 +18,7 @@ Set up a Hyperweb app by running one command ⚛️
 - [Templates](#templates)
 - [Options](#options)
 - [Development](#development)
+- [Interchain JavaScript Stack](#interchain-javaScript-stack-⚛️)
 
 ## Overview
 
